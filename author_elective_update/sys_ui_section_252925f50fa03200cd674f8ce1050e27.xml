@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Log" section_id="252925f50fa03200cd674f8ce1050e27" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-26 20:42:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>252925f50fa03200cd674f8ce1050e27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_252925f50fa03200cd674f8ce1050e27</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-26 20:42:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>61bd7cf1db2ec4940b9d21c4059619c1</instance_id>
+        <instance_name>dev97635</instance_name>
+        <name>sys_ui_section_252925f50fa03200cd674f8ce1050e27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Log" section_id="252925f50fa03200cd674f8ce1050e27" sys_domain="global" table="x_58872_needit_needit" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Log</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-26 20:42:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>252925f50fa03200cd674f8ce1050e27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_252925f50fa03200cd674f8ce1050e27</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-01-26 20:42:50</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-481569925</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>917396032feee010418bcc96f699b662</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 20:29:43</sys_created_on>
+        <sys_id>892ab6eb2f626010418bcc96f699b617</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177f9c8350b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 20:29:43</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>052ab6eb66626010f8e74147b23caf17</update_guid>
+        <update_guid_history>052ab6eb66626010f8e74147b23caf17:-481569925,79831e03c0eee01082be4faddc49d812:0,5021628af026601045b8f3d716fa0745:0,8ccacbed2e22201026728680d24d936c:0,579a50edac266010069da204eb8997ad:0,8cb51b4568e62010e2fa871ce9cf1545:0,9c9b1fbaaacaa01076d117d1a4896ced:883115816</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 20:36:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2a2c01a8b6b94908a2e520078e86c690</sys_id>
+        <sys_metadata>252925f50fa03200cd674f8ce1050e27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">118b5bba2fcaa010418bcc96f699b622</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_252925f50fa03200cd674f8ce1050e27</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_252925f50fa03200cd674f8ce1050e27">892ab6eb2f626010418bcc96f699b617</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 20:36:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
